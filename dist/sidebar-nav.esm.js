@@ -61,7 +61,7 @@ function install(Vue) {
 	if (install.installed) { return; }
 
 	install.installed = true;
-	Vue.component('MyComponent', component);
+	Vue.component('SidebarNav', component);
 }
 
 // Create module definition for Vue.use()

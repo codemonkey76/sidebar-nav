@@ -1,6 +1,6 @@
 {
  "name": "sidebar-nav",
- "version": "1.0.6",
+ "version": "1.0.7",
  "description": "Collapsible Navigation Sidebar",
  "main": "dist/sidebar-nav.umd.js",
  "module": "dist/sidebar-nav.esm.js",

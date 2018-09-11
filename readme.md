@@ -1,4 +1,4 @@
-# sidebar-nav v1.0.6
+# sidebar-nav v1.0.7
 Collapsible Sidebar Navigation
 
 ## Installation
