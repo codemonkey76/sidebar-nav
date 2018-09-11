@@ -52,7 +52,7 @@ var component = {render: function(){var _vm=this;var _h=_vm.$createElement;var _
             }
         }
     }
-}
+};
 
 // Import vue component
 

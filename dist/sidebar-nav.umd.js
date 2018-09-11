@@ -58,7 +58,7 @@
                 }
             }
         }
-    }
+    };
 
     // Import vue component
 
